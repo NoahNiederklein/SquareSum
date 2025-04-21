@@ -2,6 +2,8 @@
 
 main.py: Code to compute the number of permutations of 1..n such that the sum of every pair of consecutive numbers is a perfect square.
 
+square_path_{n}.txt contains all square-sum permutations for that value of n. Note that for larger n the files can become large (square_path_40.txt is only 12 MB but contains 439936 rows).
+
 Known results:
 
 |n|a(n)|
