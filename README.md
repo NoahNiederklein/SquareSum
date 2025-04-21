@@ -9,7 +9,7 @@ Note that it can take quite some time for the results to be computed. The provid
 Known results:
 
 |n|a(n)|Time|
-|:-:|:-:||
+|:-:|:-:|:-:|
 |1|0||
 |2|0||
 |3|0||
