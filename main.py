@@ -1,3 +1,12 @@
+# Title:       Square-Sum Permutations
+# Author:      Noah Niederklein (noah.niederklein@student.cune.edu)
+# Created:     04/20/2025
+# Modified:    04/22/2025
+# Description: This file contains code that builds and counts the number of square-sum permutations
+#              of a given length n. A square-sum permutation is a permutation of the first n positive
+#              integers where the sum of every pair of consecutive numbers is a perfect square.
+#              Example: 8 1 15 10 6 3 13 12 4 5 11 14 2 7 9
+
 class SquareSumPermutations:
     """ Class to compute the number of valid square-sum permutations of integers 1..n. """
 
